@@ -1,0 +1,23 @@
+@import url('/conpenet/_varaible.scss');
+@import url('/conpenet/_maxins.scss');
+@import url('/conpenet/_home.scss');
+@import url('/conpenet/_course.scss');
+@import url('/conpenet/_about-course.scss');
+@import url('/conpenet/_add-course.scss');
+@import url('/conpenet/_mentor.scss');
+@import url('/conpenet/_contact.scss');
+@import url('/conpenet/_map.scss');
+@import url('/conpenet/_footer.scss');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: gray;
+    overflow-x: hidden;
+}
